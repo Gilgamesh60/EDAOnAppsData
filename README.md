@@ -25,18 +25,18 @@ I have mentioned the insights gathered from the data in the above EDA notebook.
 Following is the distribution of the Genre of Apps in the 0-2, 2-3, 3-4 and 4-5 rating intervals:
 
 0-2
----
-![]("C:\Users\user\Downloads\R2_Genre.png")
+-----
+![R2_Genre](https://user-images.githubusercontent.com/104096164/190615915-b1454271-c574-4e66-add9-665cdbf2a724.png)
 
 2-3
 ---
-![]("C:\Users\user\Downloads\R3_Genre.png")
+![R3_Genre](https://user-images.githubusercontent.com/104096164/190616036-02e37bc3-1055-4a1d-bcc8-73bce6a4d15a.png)
+
 
 3-4
 ---
-![]("C:\Users\user\Downloads\R4_Genre.png")
+![R4_Genre](https://user-images.githubusercontent.com/104096164/190616072-51273068-2f46-466f-8eb4-fe5dd68c59d4.png)
 
 4-5
 ---
-![]("C:\Users\user\Downloads\R5_Genre.png")
-
+![R5_Genre](https://user-images.githubusercontent.com/104096164/190616113-ed2130af-82e5-4daa-8186-e8beada64b38.png)
