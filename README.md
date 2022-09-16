@@ -30,7 +30,7 @@ Following is the distribution of the Genre of Apps in the 0-2, 2-3, 3-4 and 4-5 
 
 2-3
 ---
-![]("C:\Users\user\Downloads\R3 _Genre.png")
+![]("C:\Users\user\Downloads\R3_Genre.png")
 
 3-4
 ---
